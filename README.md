@@ -1,2 +1,25 @@
-# machine-learning--ai-ops-social-media-content-template-pack
-30 days of post templates, stories, reels scripts, and engagement prompts for Machine Learning &amp; AI Ops. Never run out of content ideas.
+# Machine Learning & AI Ops Social Media Content Template Pack
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/8x2fZh7r16AkbRS7jCd0n32)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/8x2fZh7r16AkbRS7jCd0n32)
+
